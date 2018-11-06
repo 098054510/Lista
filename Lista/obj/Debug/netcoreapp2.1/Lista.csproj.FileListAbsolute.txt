@@ -1,0 +1,11 @@
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.deps.json
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.runtimeconfig.json
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.runtimeconfig.dev.json
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.dll
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\bin\Debug\netcoreapp2.1\Lista.pdb
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.csprojAssemblyReference.cache
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.csproj.CoreCompileInputs.cache
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.AssemblyInfoInputs.cache
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.AssemblyInfo.cs
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.dll
+C:\Users\Desenvolvedor\Desktop\Projetos Visual Studio\Lista\Lista\obj\Debug\netcoreapp2.1\Lista.pdb
